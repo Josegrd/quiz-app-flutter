@@ -1,5 +1,5 @@
 # adv_basics
 
-Quiz Project Flutter
+Quiz App Flutter
 
 ## Getting Started
