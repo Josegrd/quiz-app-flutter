@@ -75,7 +75,7 @@ Ensure you have Flutter installed on your system. Follow the official Flutter in
 Navigate to the project directory and install dependencies:
 
 ```bash
-cd flutter_quiz_app
+cd adv_basics
 flutter pub get
 ```
 
