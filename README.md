@@ -64,7 +64,7 @@ Key Focus Areas:
 Clone the repository using Git:
 
 ```bash
-git clone https://github.com/your_username/flutter_quiz_app.git
+git clone https://github.com/Josegrd/quiz-app-flutter.git
 ```
 
 
@@ -113,17 +113,17 @@ Here's an overview of the project's directory structure:
 ```
 
 ## 🖼️ Preview
-Home Screen
-Displays a list of available quizzes with topics.
+### 1. Home Screen
+- Displays a list of available quizzes with topics.
 ![Gambar](./assets/images/start.png)
 
-Quiz Screen
-Allows users to answer multiple-choice questions interactively.
+### 2. Quiz Screen
+- Allows users to answer multiple-choice questions interactively.
 ![Gambar](./assets/images/quiz.png)
 
 
-Results Screen
-Shows detailed quiz results, including correct and incorrect answers, and button to end or restart quiz.
+### 3. Results Screen
+- Shows detailed quiz results, including correct and incorrect answers, and button to end or restart quiz.
 ![Gambar](./assets/images/result.png)
 
 ## 📝 More Info
