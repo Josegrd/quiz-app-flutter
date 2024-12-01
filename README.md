@@ -115,15 +115,18 @@ Here's an overview of the project's directory structure:
 ## 🖼️ Preview
 ### 1. Home Screen
 - Displays a list of available quizzes with topics. <br/>
+<br/>
 ![Gambar](./assets/images/start.png)
 
 ### 2. Quiz Screen
 - Allows users to answer multiple-choice questions interactively. <br/>
+<br/>
 ![Gambar](./assets/images/quiz.png)
 
 
 ### 3. Results Screen
 - Shows detailed quiz results, including correct and incorrect answers, and button to end or restart quiz. <br/>
+<br/>
 ![Gambar](./assets/images/result.png)
 
 ## 📝 More Info
